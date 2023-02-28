@@ -1,0 +1,6 @@
+#!/bin/bash
+
+x=5
+y=5
+
+echo addition of $x+$y
