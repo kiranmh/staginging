@@ -3,4 +3,6 @@
 x=5
 y=5
 
-echo addition of $x+$y
+echo "addition of $x+$y"
+
+echo "welcome to devops"
