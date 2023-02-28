@@ -1,0 +1,8 @@
+#!/bin/bash
+
+NAME=Kiran
+LAST_NAME=MH
+
+echo "Welcome to devops $NAME $LAST_NAME"
+
+
